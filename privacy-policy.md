@@ -1,3 +1,7 @@
+---
+permalink: /privacy-policy/
+---
+
 # 荣誉奖牌隐私政策
 
 更新日期：2026-06-23
